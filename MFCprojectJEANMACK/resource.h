@@ -1,0 +1,124 @@
+﻿//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++에서 생성한 포함 파일입니다.
+// MFCprojectJEANMACK.rc에서 사용되고 있습니다.
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDP_SOCKETS_INIT_FAILED         104
+#define IDR_POPUP_EDIT                  119
+#define ID_STATUSBAR_PANE1              120
+#define ID_STATUSBAR_PANE2              121
+#define IDS_STATUS_PANE1                122
+#define IDS_STATUS_PANE2                123
+#define IDS_TOOLBAR_STANDARD            124
+#define IDS_TOOLBAR_CUSTOMIZE           125
+#define ID_VIEW_CUSTOMIZE               126
+#define IDR_MAINFRAME                   128
+#define IDR_MAINFRAME_256               129
+#define IDR_MFCprojectJEANMACKTYPE      130
+#define IDS_EDIT_MENU                   306
+#define IDD_DIALOG_FIRST                310
+#define IDD_DIALOG_CHANGE               312
+#define IDD_DIALOG_SHOP                 314
+#define IDD_DIALOG_GAMING               317
+#define IDB_BITMAP_C11                  321
+#define IDB_BITMAP_C31                  322
+#define IDB_BITMAP_C21                  323
+#define IDB_BITMAP_T                    324
+#define IDB_BITMAP_C13                  326
+#define IDB_BITMAP_C12                  327
+#define IDB_BITMAP_C22                  329
+#define IDB_BITMAP_C23                  330
+#define IDB_BITMAP_C32                  332
+#define IDB_BITMAP_C33                  333
+#define IDB_BITMAP_T1                   334
+#define IDB_CHAR2_UP                    336
+#define IDB_CHAR1_DEFAULT               338
+#define IDB_PNG1                        352
+#define IDB_BITMAP1                     353
+#define IDB_BITMAP2                     354
+#define IDB_BITMAP3                     355
+#define IDB_BITMAP4                     356
+#define IDB_BITMAP5                     357
+#define IDB_BITMAP6                     359
+#define IDB_BITMAP7                     360
+#define IDB_BITMAP8                     362
+#define IDB_BITMAP9                     363
+#define IDB_BITMAP11                    375
+#define IDB_BITMAP10                    376
+#define IDB_BITMAP12                    377
+#define IDB_BITMAP13                    378
+#define IDB_BITMAP14                    379
+#define IDB_BITMAP15                    380
+#define IDB_BITMAP16                    381
+#define IDB_BITMAP17                    382
+#define IDB_BITMAP18                    383
+#define IDB_BITMAP19                    384
+#define IDB_BITMAP20                    385
+#define IDB_BITMAP21                    386
+#define IDB_BITMAP22                    387
+#define IDB_BITMAP23                    388
+#define IDB_BITMAP24                    389
+#define IDB_BITMAP25                    390
+#define IDB_1D                          398
+#define IDB_1D_R                        399
+#define IDB_1U                          400
+#define IDB_1U_R                        401
+#define IDB_1X                          402
+#define IDB_1X_R                        403
+#define IDR_COINSOUND                   404
+#define IDR_DIESOUND                    405
+#define IDB_BG1_2                       407
+#define IDB_BG1_3                       408
+#define IDB_BG1_4                       409
+#define IDB_BG1_5                       410
+#define IDB_BG1_1                       411
+#define IDB_CP_0                        412
+#define IDB_CP_800                      413
+#define IDB_CP_1200                     414
+#define IDB_TP_0                        415
+#define IDB_TP_300                      416
+#define IDB_TP_500                      417
+#define IDB_SHOP_C1                     418
+#define IDB_SHOP_C2                     419
+#define IDB_SHOP_C3                     420
+#define IDB_BITMAP26                    421
+#define IDB_BACKG                       421
+#define IDB_BITMAP27                    422
+#define IDB_BITMAP28                    423
+#define IDB_BITMAP29                    424
+#define IDB_2D                          425
+#define IDB_2D_R                        426
+#define IDB_2U                          427
+#define IDB_2U_R                        428
+#define IDB_2X                          429
+#define IDB_2X_R                        430
+#define IDB_3D                          431
+#define IDB_3D_R                        432
+#define IDB_3U                          433
+#define IDB_3U_R                        434
+#define IDB_3X                          435
+#define IDB_BITMAP41                    436
+#define IDB_3X_R                        436
+#define IDC_BUTTON1                     1000
+#define IDC_BUTTON2                     1001
+#define IDC_BUTTON3                     1002
+#define IDC_PROGRESS1                   1003
+#define IDC_PROGRESS                    1003
+#define IDC_PLAY                        1005
+#define IDC_CHAR_PIC                    1006
+#define IDC_BUTTON_TH1                  1008
+#define IDC_BUTTON_TH2                  1009
+#define IDC_BUTTON_TH3                  1010
+#define ID_32771                        32771
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        437
+#define _APS_NEXT_COMMAND_VALUE         32772
+#define _APS_NEXT_CONTROL_VALUE         1011
+#define _APS_NEXT_SYMED_VALUE           310
+#endif
+#endif

@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCprojectJEANMACK.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCprojectJEANMACKDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCprojectJEANMACKView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CFirstCtrl.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CFirstPane.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CShopCtrl.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CShopPane.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CSelectCtrl.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CSelectPane.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CGamingCtrl.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CGamingPane.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayGame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCprojectJEANMACK.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCprojectJEANMACKDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCprojectJEANMACKView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CFirstCtrl.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CFirstPane.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CShopCtrl.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CShopPane.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CSelectCtrl.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CSelectPane.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CGamingCtrl.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CGamingPane.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCprojectJEANMACK.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCprojectJEANMACKDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar256.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\1x\TIME1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\MFCprojectJEANMACK.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\c1-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\c1-2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\c1_d.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\c1_d_test.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\c1-d.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\c1-u.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\char1_d.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\char1_u.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\char1_d_r.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\char1_u_r.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\배경사진.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\배경사진1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\시간.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\c2-2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\c3-2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\800원.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\0원.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\bitmap8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\800원 1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\1200원.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\bitmap10.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="etc\coin2.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\char1_x.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="character\char1_x_r.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG11.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG12.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG14.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG15.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG21.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG22.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG23.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG24.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG25.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG31.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG32.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG33.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG34.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\BG\BG35.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="etc\배경사진1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c1-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c1-1T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c1-2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c1-2T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c1-3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c1-3T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\BackGround\BG1-1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\BackGround\BG1-2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\BackGround\BG1-3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\BackGround\BG1-4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\BackGround\BG1-5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\BackGround\BG1-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\CharacterPRICE1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\CharacterPRICE2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\CharacterPRICE3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\Theme_Price1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\Theme_Price2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\Theme_Price3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\c1-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\c2-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\c3-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\BackGround\intro.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\BGA.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\BGB.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Shop\BGC.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c2-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c2-1T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c2-2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c2-2T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c2-3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c2-3T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c3-1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c3-1T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c3-2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c3-2T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c3-3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="BITMAP\Character\c3-3T.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCprojectJEANMACK.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="cpp.hint" />
+    <None Include="res\wave1.bin">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="etc\coinsound.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="etc\diesound.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="BITMAP\Sound\coinsound.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="BITMAP\Sound\diesound.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
